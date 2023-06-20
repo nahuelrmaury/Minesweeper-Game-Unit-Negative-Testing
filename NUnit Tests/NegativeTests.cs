@@ -45,9 +45,9 @@ namespace NUnit_Tests
             _gameProcessor = new GameProcessor(_field);
 
             /* action */
-            
+
             /* assert */
-            Assert.Throws<InvalidOperationException>(() => _gameProcessor.Open(x, y));
+            Assert.That(() => _gameProcessor.Open(x, y), Throws.Exception.With.Message.EqualTo("Expected error message"));
         }
 
 
