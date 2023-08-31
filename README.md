@@ -17,7 +17,7 @@ The Minesweeper game is a console-based implementation that follows the rules of
 To run the unit tests, you will need the following:
 
 - Visual Studio or an IDE of your choice that supports NUnit testing.
-- The Minesweeper game solution. You can find it at [GitHub - Minesweeper](https://github.com/TiAutoBootcamp/Minesweeper).
+- The Minesweeper game solution.
 
 ## Unit Testing
 
