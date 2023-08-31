@@ -1,6 +1,6 @@
 # Minesweeper Game Unit Testing
 
-This repository contains unit tests for the Minesweeper game located at [GitHub - Minesweeper](https://github.com/TiAutoBootcamp/Minesweeper). The tests focus on verifying the functionality of the `Open()` and `GetCurrentField()` methods of the `GameProcessor` class.
+This repository contains unit tests for the Minesweeper game. The tests focus on verifying the functionality of the `Open()` and `GetCurrentField()` methods of the `GameProcessor` class.
 
 ## Table of Contents
 - [Introduction](#introduction)
